@@ -1,0 +1,12 @@
+band_GHz,fc_GHz,dev_1m_LOS_dB,valid,note
+6-7,6.5,-0.3,1,within +-3 dB of free space
+7-8,7.5,-1.7,1,within +-3 dB of free space
+8-9,8.5,-2.1,1,within +-3 dB of free space
+9-10,9.5,-1.4,1,within +-3 dB of free space
+10-11,10.5,-1.1,1,within +-3 dB of free space
+11-12,11.5,-1.4,1,within +-3 dB of free space
+12-13,12.5,,0,1-m reference deviates -6.7 to -9.5 dB (12-15 GHz): calibration/cable error
+13-14,13.5,,0,1-m reference deviates -6.7 to -9.5 dB (12-15 GHz): calibration/cable error
+14-15,14.5,,0,1-m reference deviates -6.7 to -9.5 dB (12-15 GHz): calibration/cable error
+15-16,15.5,,0,passes 1-m check but scatter across positions >2x lower bands: not used
+16-17,16.5,,0,1-m reference deviates by more than 10 dB: not used

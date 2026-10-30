@@ -1,0 +1,7 @@
+.DS_Store
+*.asv
+*.m~
+octave-workspace
+results/*.png
+results/*.mat
+results/csv/
